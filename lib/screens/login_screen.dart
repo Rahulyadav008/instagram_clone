@@ -107,6 +107,12 @@ class _LogInScreenState extends State<LogInScreen> {
                     ),
                     padding: const EdgeInsets.symmetric(vertical: 8),
                   ),
+                  Container(
+                    child: const Text(
+                      'Dont have an account?',
+                    ),
+                    padding: const EdgeInsets.symmetric(vertical: 8),
+                  ),
                   GestureDetector(
                     onTap: () => Navigator.of(context).push(MaterialPageRoute(builder: (context) => const SignUpScreen(),),),
                     child: Container(

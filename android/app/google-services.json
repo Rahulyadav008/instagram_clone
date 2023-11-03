@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996834496339",
+    "project_id": "instagrame-clone-ef411",
+    "storage_bucket": "instagrame-clone-ef411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996834496339:android:01131445829695afcbdba6",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996834496339-vifv5cumbcj1raonepedo1pp8pedm5di.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram_clone",
+            "certificate_hash": "67b19be402bb65f65240b9cd249f92fd36023610"
+          }
+        },
+        {
+          "client_id": "996834496339-shkllfhbmqjl742hcia7ip2t5jhk9hg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAci0_yf7H0DfAAYwmT-6g8BImhdkkp6MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996834496339-shkllfhbmqjl742hcia7ip2t5jhk9hg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
